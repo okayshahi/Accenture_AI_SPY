@@ -12,11 +12,21 @@
       <h1>Image Caption Generator</h1>
     </div>
     <form class="container" id="form1" method="POST" >
-      <label for="imageURL" class="label">Paste Image URL</label><br/>
+      <div class="label">
+        <label for="imageURL">Paste Image URL</label><br/>
+      </div>
       <div class="formInput">
-        <input type="url" name="ImageSelected" placeholder="https://" id="">
+        <input class="formbox" type="url" name="ImageSelected" placeholder="https://" id="">
         <input type="submit" class="button" value="Get Caption!" />
       </div>
       </form>
+    <div>
+      <p>Click on Get Caption to get the results like below</p>
+    </div>
+    <div >
+      <img class="sample1" src="/static/Sneakers.png" alt="sneaker sample" srcset="">
+      <img class="sample1" src="/static/Graffiti.png" alt="graffiti sample" srcset="">
+      <img class="sample1" src="/static/Dog.png" alt="dog sample" srcset="">
+    </div>
 </body>
 </html>
