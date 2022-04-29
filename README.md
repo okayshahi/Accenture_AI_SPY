@@ -8,6 +8,7 @@ The web app requires an image link to be pasted in a text box by copying an imag
 
 ### Results 
 After which, the user will be redirected to the caption generated results. This result page shows the user the caption, its confidence as well as image tags associated with the image. If the image contains a celebrity, Accenture_AI_SPY can include them in the caption as well.
+
 ![alt text](https://github.com/okayshahi/Accenture_AI_SPY/blob/master/static/Dog.png)
 
 ## How I built it
