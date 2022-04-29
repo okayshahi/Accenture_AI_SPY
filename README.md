@@ -1,6 +1,6 @@
 # Accenture_AI_SPY
 ## How to use it
-[Image Caption Generator] (https://image-desc111.azurewebsites.net/)
+![Image Caption Generator] (https://image-desc111.azurewebsites.net/)
 ### Paste an image link
 
 The web app requires an image link to be pasted in a text box by copying an image from the internet (right-click, copy image link), whereafter it is inserted in the textbox, the user can click on **Get Caption**. 
